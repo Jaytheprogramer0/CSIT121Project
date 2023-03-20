@@ -1,0 +1,50 @@
+body{
+    background-color: #ff7b25;
+    text-align: center;
+    margin: 0px;
+    margin-top: -25px;
+
+
+}
+.Title{
+    padding-bottom: 5%;
+    text-align: center;
+    font-family: 'Modern Antiqua', cursive;
+
+    
+}
+
+header{
+    background-color: black;
+    color: aliceblue;
+
+    
+    
+    
+}
+.about{
+    background-color: aliceblue;
+    padding: 5%;
+    vertical-align: text-top;
+    font-family: 'Modern Antiqua', cursive;
+
+    
+}
+
+.Menu{
+    background-color:black;
+    color: white;
+    width: 50%;
+    margin-top: 25%;
+    margin-left: 25%;
+    text-align: center;
+    font-family: 'Modern Antiqua', cursive;
+    border: 20px;
+    padding-bottom: 5%;
+}
+
+button:hover{
+border: none;
+background-color: #ff7b25;
+
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: #ff7b25;
+    text-align: center;
+    margin: 0px;
+    margin-top: -25px;
+
+}
+
+h1{
+    font-family: 'Modern Antiqua', cursive;
+    color: white;
+}
+
+.heading{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 5%;
+
+}
+.info{
+  
+        background-color: aliceblue;
+        padding: 5%;
+        vertical-align: text-top;
+        font-family: 'Modern Antiqua', cursive;
+}
+button:hover{
+background-color: black;
+}
+
+  
